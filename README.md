@@ -148,7 +148,7 @@ Based on our analysis, we recommend the following post-pandemic work policy:
 | Visualization | Matplotlib, Seaborn, Plotly |
 | Dashboard | PowerBI |
 | Collaboration | GitHub, Google Colab |
-| AI Assistance | PromptBI, Claude AI |
+| AI Assistance | PromptBI, Claude AI, Gemini, ChatGPT |
 
 ---
 
@@ -158,10 +158,10 @@ Based on our analysis, we recommend the following post-pandemic work policy:
 |-------|-------|----------|--------|
 | Week 1 | Data exploration & cleaning | [Date] | 🔄 In Progress |
 | Week 1 | Individual analysis assignments | [Date] | ⏳ Pending |
-| Week 2 | Visualization development | [Date] | ⏳ Pending |
-| Week 2 | Dashboard creation | [Date] | ⏳ Pending |
-| Week 3 | Integration & narrative | [Date] | ⏳ Pending |
-| Week 3 | Final review & submission | [Date] | ⏳ Pending |
+| Week 1 | Visualization development | [Date] | ⏳ Pending |
+| Week 1 | Dashboard creation | [Date] | ⏳ Pending |
+| Week 2 | Integration & narrative | [Date] | ⏳ Pending |
+| Week 2 | Final review & submission | 13th January 2026 | ⏳ Pending |
 
 ---
 
