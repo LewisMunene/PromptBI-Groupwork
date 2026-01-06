@@ -18,9 +18,10 @@
 | Member | Role | Primary Tasks | Tools |
 |--------|------|---------------|-------|
 | Lewis Munene | Project Lead / Data Analyst | Data cleaning, EDA, Productivity analysis | Python, Pandas, Claude AI |
-| [Member 2] | Visualization Specialist | Dashboard development | PowerBI |
-| [Member 3] | Statistical Analyst | Morale & wellbeing analysis | Python/Excel |
-| [Member 4] | Research & Documentation | Narrative synthesis, recommendations | - |
+| [Dennis] | Visualization Specialist | Dashboard development | PowerBI |
+| [Khensani] | Statistical Analyst | Morale & wellbeing analysis | Python/Excel |
+| [Maureen] | Visualization Specialist | Dashboard development | PowerBI |
+| [Obondo] | Research & Documentation | Narrative synthesis, recommendations | - |
 
 ---
 
