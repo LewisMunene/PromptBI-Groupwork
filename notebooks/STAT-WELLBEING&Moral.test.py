@@ -3,7 +3,6 @@ import pandas as pd
 def generate_analytics(sample_data: list) -> pd.DataFrame:
     df = pd.DataFrame(sample_data)
 
-    # Challenge1: Filter to include only respondents who have given a productivity rating
     df = df[
         df["How would you rate your productivity when working remotely?"].notna()
     ]
@@ -27,7 +26,7 @@ def generate_analytics(sample_data: list) -> pd.DataFrame:
 
     df['morale_score'] = df.apply(morale_score, axis=1)
 
-    # Challenge2: Select columns relevant to morale and well-being analysis
+    
     df = df[[ 'Which of the following best describes your industry?',
             'Which of the following best describes your household?',
             'How would you rate your productivity when working remotely?',
@@ -38,4 +37,5 @@ def generate_analytics(sample_data: list) -> pd.DataFrame:
     moral_sorted = morale_by_group.sort_values(by='morale_score', ascending=False)
 
     return moral_sorted
+
 
